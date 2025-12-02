@@ -1,4 +1,20 @@
-Brīvkoda programmatūra (open source software) ir tāda programmatūra, kuras pirmkods (source code) ir publiski pieejams,
-Tas nozīmē, ka ikviens drīkst apskatīt, kā programma uzrakstīta, labot kļūdas un pievienot jaunas funkcijas, veidot savas programmas versijas.
-Brīvs, ne vienmēr gan nozīmē bezmaksas, bet tiesiski neierobežots.
-Slēkta koda programmā visas īpašības un faktori ir pretēji, viss ir stipri stingrāks un ierobežotāks.
+Brīvkoda license ir juridisks dokuments, kas nosaka:
+ko drīkst darīt ar programmas pirmkodu
+kādos gadījumos drīkst dalīties ar modificētu kodu
+kā tiek aizsargātas autora autortiesības
+kāda ir autora atbildība par kļūdām programmā
+
+MIT license ir ļoti brīva un vienkārša brīvkoda license.
+Tā parasti atļauj:
+izmantot kodu jebkādiem mērķiem
+kopēt mainīt un izplatīt programmu
+iekļaut kodu slēgtā koda projektos.
+
+MIT un GNU GPLv3 salīdzinājums
+Brīvības lietotājiem:
+Abas licenses ļauj lietot, kopēt un mainīt kodu. Atšķirība parādās izplatīšanā.
+MIT license ļauj pārvērst kodu par slēgto -
+var paņemt atvērtu kodu, iekļaut savā produktā un vairs nesniegt pirmkodu citiem.
+GNU GPLv3 to nedara - 
+Ja izplati savu versiju kodam jābūt atvērtam.
+MIT ir brīvība GNU GPLv3 ir aizsardzība.
